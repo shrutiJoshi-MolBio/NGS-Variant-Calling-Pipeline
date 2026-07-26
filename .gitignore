@@ -1,0 +1,17 @@
+# Raw sequencing data
+data/raw/
+
+# SRA downloads
+scripts/SRR2584863/
+
+# macOS
+.DS_Store
+
+# Alignment files
+*.bam
+*.bai
+
+# Variant files
+*.vcf
+*.vcf.gz
+*.vcf.gz.tbi
