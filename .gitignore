@@ -1,3 +1,4 @@
+
 # Raw sequencing data
 data/raw/
 
@@ -15,3 +16,9 @@ scripts/SRR2584863/
 *.vcf
 *.vcf.gz
 *.vcf.gz.tbi
+
+# FastQC archives
+results/fastqc/*.zip
+
+# MultiQC intermediate data
+results/multiqc/multiqc_data/
